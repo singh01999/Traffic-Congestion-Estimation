@@ -15,8 +15,7 @@ across 48120 rows. The DateTime column shows the timestamp along with the respec
 - **Vehicles** - It tells the number of vehicles
 - **id** - It tells the id number of a timestamp
 
-Link to the dataset: [traffic.csv](https://github.com/ayushabrol13/Traffic-Prediction---PRML-Course-Project/blob/master/traffic.csv)
-
+ 
 ## Implemented the following algorithms
 
 - **Decision Tree Regressor**
@@ -43,22 +42,7 @@ Link to the dataset: [traffic.csv](https://github.com/ayushabrol13/Traffic-Predi
 - **GridSearchCV for Hyperparameter Tuning**
   For tuning the hyperparameters, We have used Grid Search CV, which uses a different combination of all the specified hyperparameters and their values and calculates the performance for each combination and selects the best value for the hyperparameters.
 
-## Traffic Flow across different junctions according to time-period
-
-![Traffic Flow](https://raw.githubusercontent.com/ayushabrol13/Traffic-Prediction---PRML-Course-Project/master/plots/traffic_flow.png "Traffic Flow across Junctions")
-
-## Correlation Heatmap
-
-![Correlation Heatmap](https://raw.githubusercontent.com/ayushabrol13/Traffic-Prediction/master/plots/correlation_heatmap.png "Correlation Heatmap")
-
-## Yearwise Count
-
-![Year Count](https://raw.githubusercontent.com/ayushabrol13/Traffic-Prediction/master/plots/Count_by_years.png "Year Count")
-
-## Traffic Flow Pairplots
-
-![Traffic Flow Pairplots](https://raw.githubusercontent.com/ayushabrol13/Traffic-Prediction/master/plots/traffic_flow_pairplot.png "Traffic Flow Pairplots")
-
+ 
 ## Model Evaluation
 
 - **Junction 1**
